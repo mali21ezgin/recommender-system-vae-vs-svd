@@ -1,0 +1,23 @@
+# Python byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Datasets
+ratings.dat
+*.dat
+*.csv
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE & Editor files
+.vscode/
+.idea/
+.DS_Store
+
+# Output Figures
+*.png
